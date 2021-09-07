@@ -1,2 +1,2 @@
-# CS114.M11.KHCL
-Git repo cho môn Máy học 
+# Thông tin sinh viên
+Nguyễn Hồng Lạc - 18520966 
